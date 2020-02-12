@@ -1,0 +1,5 @@
+.navbar {
+    grid-area: navbar;
+    background-color: aqua;
+    min-height: 500px;
+}
